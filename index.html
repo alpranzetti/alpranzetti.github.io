@@ -60,7 +60,7 @@
 	        
 			 // $( 'section' ).addClass( 'hidden' );
 			  $(document).ready(function(){
-                          $("#button1").click(function(){
+                          $("button").click(function(){
                           $.getJSON("http://bootcamp.aws.af.cm/welcome/yourname", function(result){
                           $.each(result, function(i, field){
                           $("div").append(field + " ");
@@ -74,7 +74,7 @@
 	   
 		                       "Hello World"
 		                       <input type = "text" class= "alias"  autofocus >
-		                       <button type="button" id= "button1" >Click</button>
+		                       <button type="button" >Click</button>
 		                       
 		                       
 		</section>
