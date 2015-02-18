@@ -58,16 +58,16 @@
 	        
 	        <script >
 	        
-			  $( 'section' ).addClass( 'hidden' );
-			   <script type= "text/javascript" >
-			    
-				$("#button1").click(function(){
-					$.getJSON("http://bootcamp.aws.af.cm/welcome/yourname", function(result){
-				$.each(result, function(i, field){
-							$("div").append(field + " ");
-                         });
-                       });
-                  });
+			 // $( 'section' ).addClass( 'hidden' );
+			  $(document).ready(function(){
+                          $("button1").click(function(){
+                          $.getJSON("http://bootcamp.aws.af.cm/welcome/yourname", function(result){
+                          $.each(result, function(i, field){
+                          $("div").append(field + " ");
+            });
+        });
+    });
+});
 			</script>
 			  
 			  
@@ -75,6 +75,7 @@
 		                       "Hello World"
 		                       <input type = "text" class= "alias"  autofocus >
 		                       <button type="button" id= "button1" >Click</button>
+		                       <div></div>
 		                       
 		</section>
 		
