@@ -3,5 +3,7 @@
   
   .sect {
 		  text-align: center;
+		  visibility: hidden;
+		  display: none;
   }
   </style>
