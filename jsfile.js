@@ -15,7 +15,7 @@ MOVIE3= new MOVIE ( "The Imitation Game");
 
 function play()
 {
-    document.write("movies"); 
+    document.write(MOVIE1.name); 
 }
 
 function stop()
