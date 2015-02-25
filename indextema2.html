@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>pruebas</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    </head>
+    
+    <body>
+        <div>tema 2</div>
+        
+        <script>
+          
+       
+                var MOVIE = function()  //constructor movies
+                {
+                  //   this.title = title; 
+                };
+         
+         
+         var codigo = new MOVIE();
+         var todo = new MOVIE ();
+    
+         MOVIE.prototype.get = function(MOVIEname) {   //method 
+         var objectName=JSON.stringify(MOVIEname).match(/"(.*?)"/)[1];
+         alert(objectName);
+         return objectName;
+           };
+        
+          MOVIE.prototype.set = function(str,value) {
+          
+         };
+       
+         
+         //Class
+	function ObserverList(){
+  		
+         this.observerList = [];
+	}
+
+       
+         MOVIE.prototype.play = function() {
+       //    alert('playing... ' + this.get);
+         };
+
+        MOVIE.prototype.stop = function() {
+       //    alert('stopping... ' + this.get());
+         };
+      
+       codigo.get('el codigo enigma');
+       todo.get('la teoria del todo');
+      // todo.play(); 
+       
+      
+       
+         
+            
+        </script>
+    </body>
+</html>
