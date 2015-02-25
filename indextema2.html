@@ -6,61 +6,72 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>pruebas</title>
+        <title>Topic 2: Design Patterns and OOP in JavaScript</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+       
     </head>
-    
     <body>
-        <div>tema 2</div>
+        <div>Topic 2</div>
+        
+      
         
         <script>
-          
-       
-                var MOVIE = function()  //constructor movies
-                {
-                  //   this.title = title; 
-                };
-         
-         
-         var codigo = new MOVIE();
-         var todo = new MOVIE ();
-    
-         MOVIE.prototype.get = function(MOVIEname) {   //method 
-         var objectName=JSON.stringify(MOVIEname).match(/"(.*?)"/)[1];
-         alert(objectName);
-         return objectName;
-           };
-        
-          MOVIE.prototype.set = function(str,value) {
-          
-         };
-       
-         
-         //Class
-	function ObserverList(){
+            
+            /* 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+function MOVIE (moviename) //constructor objeto peliculas 
+{ 
+    this.name = moviename ;
+    this.play = play; 
+    this.stop = stop; 
+    this.set = set; 
+}
+
+MOVIE1 = new MOVIE ("The Unexpected Virtue of Ignorance"); //inicializacion de objetos 
+MOVIE2= new MOVIE ("The Theory of Everything");
+MOVIE3= new MOVIE ("The Imitation Game");
+MOVIE5= new MOVIE; 
+
+MOVIE1.play();  
+MOVIE3.stop(); 
+
+MOVIE2.set('El Naúfrago');
+MOVIE5.set('The Theory of Everything');
+
+function play()
+{
+  alert('Playing... ' + this.name);
+   
+}
+
+
+function stop()
+{
+   alert('Stopping... ' + this.name);
+}
+
+function set( value)
+{ 
+     anterior = this.name ;
+    this.name = value;
+    alert('El título de: "'+ anterior +  '" cambio a: "'+ value +'"'); 
+}
+
+
+//CLASS
+function ObserverList(){
   		
          this.observerList = [];
 	}
-
-       
-         MOVIE.prototype.play = function() {
-       //    alert('playing... ' + this.get);
-         };
-
-        MOVIE.prototype.stop = function() {
-       //    alert('stopping... ' + this.get());
-         };
-      
-       codigo.get('el codigo enigma');
-       todo.get('la teoria del todo');
-      // todo.play(); 
-       
-      
-       
-         
+            
+            
             
         </script>
     </body>
+    
 </html>
