@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Topic 4</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <style>
+            body {
+                    background-color: palegoldenrod;
+                 }
+            
+        </style>
+    </head>
+    <body>
+        <div>Topic 4: MVC - Backbone</div>
+         <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.js"></script>
+         <script src="https://code.jquery.com/jquery-1.11.2.js"></script>
+       
+         
+         <ul class="MovieData">
+         <script id="entry-template" type="text/x-handlebars-template">
+            <li>
+                <img src="https://bamfstyle.files.wordpress.com/2012/12/oe01.jpeg" align="left" height="300" width="200">
+                 <h2>{{{Title}}}</h2> 
+                 <h3>{{ Year }} -{{Genre}}</h3>
+                 <p> {{{ Plot }}}</p>
+                 <h4>{{{Director}}}</h4>
+                 <h4>{{{Writers}}}</h4>
+                 <h4>{{{Stars}}}</h4>
+             </li>
+       </script>
+        </ul>
+       
+    
+         <script>
+           (function(){
+                 
+                 var data = {
+                     
+                     Title: '<u>Oceans Eleven</u>',
+                     Year:'(2001)',
+                     Genre: 'Crime/Thriller'  ,
+                     Plot: 'Danny Ocean wants to score the biggest heist in history.\n\
+                     He combines an eleven member team,<br> including Frank Catton, Rusty Ryan \n\
+                     and Linus Caldwell. Their target? The Bellagio, the Mirage<br> and the MGM Grand.\n\
+                     All casinos owned by Terry Benedict.Its not going to be easy, as they plan <br>to get in\n\
+                     secretly and out with $150 million.' ,
+                     Director: '<u>Director:</u> Steven Soderbergh',
+                     Writers:'<u>Writers:</u> George Clayton Johnson, Jack Golden Russell, 3 more credits',
+                     Stars:'<u>Stars:</u> George Clooney, Brad Pitt, Julia Roberts | See full cast and crew '
+                 };
+                
+                 
+                 var template = Handlebars.compile($('#entry-template').html());
+                $('ul.MovieData').append(template(data));
+                 
+             })();
+       </script>   
+             
+             
+         
+         
+        
+    </body>
+</html>
