@@ -1,0 +1,556 @@
+[
+{
+        "Title": "Birdman",
+        "Plot": "A washed-up actor, who once played an iconic superhero, battles his ego and attempts to recover his family, his career and himself in the days leading up to the opening of his Broadway play.",
+        "Image": "http://ia.media-imdb.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_SX214_AL_.jpg",
+        "Trailer": "https://www.youtube.com/embed/uJfLoE6hanc",
+        "Imdb": "http://www.imdb.com/showtimes/title/tt2562232/?ref_=shlc_li_i",
+        "Year": "2014",
+        "Director": "Alejandro González Iñárritu",
+        "Genre": "Comedy",
+        "Duration": "119 min",
+         "Awards": [
+                {
+                    "Name": "Best Picture"
+                },
+                {
+                    "Name": "Best Original Screenplay"
+                },
+                {
+                    "Name": "Best Cinematography"
+                },
+                {
+                    "Name": "Best Director"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Michael Keaton"
+                },
+                {
+                    "Name": "Zach Galifianakis"
+                },
+                {
+                    "Name": "Edward Norton"
+                }
+            ]
+},
+{
+ "Title": "Kingsman",
+            "Plot": "A spy organization recruits an unrefined, but promising street kid into the agency's ultra-competitive training program, just as a global threat emerges from a twisted tech genius.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMTkxMjgwMDM4Ml5BMl5BanBnXkFtZTgwMTk3NTIwNDE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/kl8F-8tR8to",
+            "Imdb": "http://www.imdb.com/showtimes/title/tt2802144/?ref_=shlc_li_i",
+            "Year": "2014",
+            "Director": "Matthew Vaughn",
+            "Genre": "Action",
+            "Duration": "129 min",
+            "Awards": [
+                {
+                    "Name": "none"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Colin Firth"
+                },
+                {
+                    "Name": "Taron Egerton"
+                },
+                {
+                    "Name": "Samuel L. Jackson"
+                }
+            ]
+},
+{
+"Title": "The Theory of Everything",
+            "Plot": "A look at the relationship between the famous physicist Stephen Hawking and his wife.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1_SX214_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/LUayjO_KgsQ",
+            "Imdb": "http://www.imdb.com/showtimes/title/tt2980516/?ref_=shlc_li_i",
+            "Year": "2014",
+            "Director": "James Marsh",
+            "Genre": "Biography",
+            "Duration": "123 min",
+            "Awards": [
+                {
+                    "Name": "Best Actor"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Eddie Redmayne"
+                },
+                {
+                    "Name": "Felicity Jones"
+                },
+                {
+                    "Name": "Tom Prior"
+                }
+            ]
+},
+{
+"Title": "Gravity",
+            "Plot": "A medical engineer and an astronaut work together to survive after a catastrophe destroys their shuttle and leaves them adrift in orbit.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/OiTiKOy59o4",
+            "Imdb": "http://www.imdb.com/title/tt1454468/?ref_=nv_sr_1",
+            "Year": "2013",
+            "Director": "Alfonso Cuarón",
+            "Genre": "Thriller",
+            "Duration": "91 min",
+            "Awards": [
+                {
+                    "Name": "Best Director"
+                },
+                {
+                    "Name": "Best Visual Effects"
+                },
+                {
+                    "Name": "Best Cinematography"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Sandra Bullock"
+                },
+                {
+                    "Name": "George Clooney"
+                },
+                {
+                    "Name": "Ed Harris"
+                }
+            ]
+},
+{
+"Title": "12 Years A Slave",
+            "Plot": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_SX214_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/z02Ie8wKKRg",
+            "Imdb": "http://www.imdb.com/title/tt2024544/?ref_=nv_sr_1",
+            "Year": "2013",
+            "Director": "Steve McQueen",
+            "Genre": "Biography",
+            "Duration": "134 min",
+            "Awards": [
+                {
+                    "Name": "Best Picture"
+                },
+                {
+                    "Name": "Best Orignal Screenplay"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Chiwetel Ejiofor"
+                },
+                {
+                    "Name": "Michael Kenneth Williams"
+                },
+                {
+                    "Name": "Brad Pitt"
+                }
+            ]
+},
+{
+"Title": "The Hobbit 2",
+            "Plot": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/OPVWy1tFXuc",
+            "Imdb": "http://www.imdb.com/title/tt1170358/?ref_=nv_sr_2",
+            "Year": "2013",
+            "Director": "Peter Jackson",
+            "Genre": "Action",
+            "Duration": "161 min",
+            "Awards": [
+                {
+                    "Name": "none"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Ian McKellen"
+                },
+                {
+                    "Name": "Martin Freeman"
+                },
+                {
+                    "Name": "Richard Armitage"
+                }
+            ]
+},
+{
+ "Title": "Paranormal Activity",
+            "Plot": "After moving into a suburban home, a couple becomes increasingly disturbed by a nightly demonic presence.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMjAwNDAxMjc0N15BMl5BanBnXkFtZTgwNDcyNDU3MDE@._V1_SX214_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/F_UxLEqd074",
+            "Imdb": "http://www.imdb.com/title/tt1179904/?ref_=nv_sr_2",
+            "Year": "2007",
+            "Director": "Oren Peli",
+            "Genre": "Horror",
+            "Duration": "86 min",
+            "Awards": [
+                {
+                    "Name": "none"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Katie Featherston"
+                },
+                {
+                    "Name": "Micah Sloat"
+                },
+                {
+                    "Name": "Mark Fredrichs"
+                }
+            ]
+},
+{
+"Title": "Kill Bill 2",
+            "Plot": "The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd and the treacherous, one-eyed Elle.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMTIwNzQ3MDIxMV5BMl5BanBnXkFtZTcwMDIxMzUyMQ@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/q2h6EFk36kI",
+            "Imdb": "http://www.imdb.com/title/tt0378194/?ref_=nv_sr_2",
+            "Year": "2004",
+            "Director": "Quentin Tarantino",
+            "Genre": "Action",
+            "Duration": "137 min ",
+            "Awards": [
+                {
+                    "Name": "none"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Uma Thurman"
+                },
+                {
+                    "Name": "David Carradine"
+                },
+                {
+                    "Name": "Michael Madsen"
+                }
+            ]
+},
+{
+"Title": "Inglourious Basterds ",
+            "Plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMjIzMDI4MTUzOV5BMl5BanBnXkFtZTcwNDY3NjA3Mg@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/KnrRy6kSFF0",
+            "Imdb": "http://www.imdb.com/title/tt0361748/?ref_=nv_sr_1",
+            "Year": "2009",
+            "Director": "Quentin Tarantino",
+            "Genre": "Action",
+            "Duration": "153 min",
+            "Awards": [
+                {
+                    "Name": "none"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Brad Pitt"
+                },
+                {
+                    "Name": "Diane Kruger"
+                },
+                {
+                    "Name": "Eli Roth"
+                }
+            ]
+},
+{
+"Title": "Argo",
+            "Plot": "Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1980.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMTc3MjI0MjM0NF5BMl5BanBnXkFtZTcwMTYxMTQ1OA@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/w918Eh3fij0",
+            "Imdb": "http://www.imdb.com/title/tt1024648/?ref_=nv_sr_1",
+            "Year": "2012",
+            "Director": "Ben Affleck",
+            "Genre": "Drama",
+            "Duration": "120 min",
+            "Awards": [
+                {
+                    "Name": "Best Actor"
+                },
+                {
+                    "Name": "Best Original Screenplay"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Ben Affleck"
+                },
+                {
+                    "Name": "Bryan Cranston"
+                },
+                {
+                    "Name": "John Goodman "
+                }
+            ]
+},
+{
+ "Title": "Lincoln",
+            "Plot": "As the Civil War continues to rage, America's president struggles with continuing carnage on the battlefield as he fights with many inside his own cabinet on the decision to emancipate the slaves.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMTQzNzczMDUyNV5BMl5BanBnXkFtZTcwNjM2ODEzOA@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/qiSAbAuLhqs",
+            "Imdb": "http://www.imdb.com/title/tt0443272/?ref_=nv_sr_2",
+            "Year": "2012",
+            "Director": "Steven Spielberg",
+            "Genre": "Biography",
+            "Duration": "150 min",
+            "Awards": [
+                {
+                    "Name": "Best Picture"
+                },
+                {
+                    "Name": "Best Director"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Daniel Day-Lewis"
+                },
+                {
+                    "Name": "Sally Field"
+                },
+                {
+                    "Name": "David Strathairn"
+                }
+            ]
+},
+
+{
+"Title": "The Artist",
+            "Plot": "A silent movie star meets a young dancer, but the arrival of talking pictures sends their careers in opposite directions.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMzk0NzQxMTM0OV5BMl5BanBnXkFtZTcwMzU4MDYyNQ@@._V1_SY317_CR12,0,214,317_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/ixqr8D7J_Kc",
+            "Imdb": "http://www.imdb.com/title/tt1655442/?ref_=nv_sr_1",
+            "Year": "2011",
+            "Director": "Michel Hazanavicius",
+            "Genre": "Comedy",
+            "Duration": "100 min",
+            "Awards": [
+                {
+                    "Name": "Best Picture"
+                },
+                 {
+                    "Name": "Best Actor"
+                },
+                {
+                    "Name": "Best Director"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Jean Dujardin"
+                },
+                {
+                    "Name": "Bérénice Bejo"
+                },
+                {
+                    "Name": "John Goodman"
+                }
+            ]
+},
+{
+"Title": "Midnight in Paris",
+            "Plot": "While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMTM4NjY1MDQwMl5BMl5BanBnXkFtZTcwNTI3Njg3NA@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/FAfR8omt-CY",
+            "Imdb": "http://www.imdb.com/title/tt1605783/?ref_=nv_sr_1",
+            "Year": "2011",
+            "Director": "Woody Allen",
+            "Genre": "Comedy",
+            "Duration": "94 min",
+            "Awards": [
+                {
+                    "Name": "Best Original Screenplay"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Owen Wilson"
+                },
+                {
+                    "Name": "Rachel McAdams"
+                },
+                {
+                    "Name": "Kathy Bates "
+                }
+            ]
+},
+{
+"Title": "Fast Five",
+            "Plot": "Dominic Toretto and his crew of street racers plan a massive heist to buy their freedom while in the sights of a powerful Brazilian drug lord and a dangerous federal agent.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/mw2AqdB5EVA",
+            "Imdb": "http://www.imdb.com/title/tt1596343/?ref_=nv_sr_2",
+            "Year": "2011",
+            "Director": "Justin Lin",
+            "Genre": "Action",
+            "Duration": "130 min ",
+            "Awards": [
+                {
+                    "Name": "none"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Vin Diesel"
+                },
+                {
+                    "Name": "Paul Walker"
+                },
+                {
+                    "Name": "Dwayne Johnson"
+                }
+            ]
+},
+{
+ "Title": "The King's Speech",
+            "Plot": "The story of King George VI of the United Kingdom of Great Britain and Northern Ireland, his impromptu ascension to the throne and the speech therapist who helped the unsure monarch become worthy of it.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1_SY317_CR1,0,214,317_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/pzI4D6dyp_o",
+            "Imdb": "http://www.imdb.com/title/tt1504320/?ref_=fn_al_tt_1",
+            "Year": "2010",
+            "Director": "David Seidler",
+            "Genre": "Drama",
+            "Duration": "118 min",
+            "Awards": [
+                {
+                    "Name": "Best Picture"
+                },
+                {
+                    "Name": "Best Director"
+                },
+                {
+                    "Name": "Best Original Screenplay"
+                },
+                {
+                    "Name": "Best Actor"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Colin Firth"
+                },
+                {
+                    "Name": "Geoffrey Rush"
+                },
+                {
+                    "Name": "Helena Bonham Carter"
+                }
+            ]
+},
+{
+   "Title": "Due Date",
+            "Plot": "High-strung father-to-be Peter Highman is forced to hitch a ride with aspiring actor Ethan Tremblay on a road trip in order to make it to his child's birth on time.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMTU5MTgxODM3Nl5BMl5BanBnXkFtZTcwMjMxNDEwNA@@._V1_SX214_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/Hd_aN0LAgMo",
+            "Imdb": "http://www.imdb.com/title/tt1231583/?ref_=nv_sr_1",
+            "Year": "2010",
+            "Director": "Todd Phillips",
+            "Genre": "Comedy",
+            "Duration": "95 min",
+            "Awards": [
+                {
+                    "Name": "none"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Robert Downey Junior"
+                },
+                {
+                    "Name": "Zach Galifianakis"
+                },
+                {
+                    "Name": "Michelle Monaghan"
+                }
+            ] 
+},
+{
+  "Title": "Focus",
+            "Plot": "In the midst of veteran con man Nicky's latest scheme, a woman from his past - now an accomplished femme fatale - shows up and throws his plans for a loop.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMTUwODg2OTA4OF5BMl5BanBnXkFtZTgwOTE5MTE4MzE@._V1_SX214_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/MxCRgtdAuBo",
+            "Imdb": "http://www.imdb.com/title/tt2381941/?ref_=nv_sr_1",
+            "Year": "2015",
+            "Director": "Glenn Ficarra",
+            "Genre": "Comedy",
+            "Duration": "105 min ",
+            "Awards": [
+                {
+                    "Name": "none"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Will Smith"
+                },
+                {
+                    "Name": "Margot Robbie"
+                },
+                {
+                    "Name": "Rodrigo Santoro"
+                }
+            ]  
+},
+{
+   "Title": "The Blind Side",
+            "Plot": "The story of Michael Oher, a homeless and traumatized boy who became an All American football player and first round NFL draft pick with the help of a caring woman and her family.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BMjEzOTE3ODM3OF5BMl5BanBnXkFtZTcwMzYyODI4Mg@@._V1_SX214_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/gvqj_Tk_kuM",
+            "Imdb": "http://www.imdb.com/title/tt0878804/?ref_=nv_sr_1",
+            "Year": "2009",
+            "Director": "John Lee Hancock",
+            "Genre": "Drama",
+            "Duration": "129 min",
+            "Awards": [
+                {
+                    "Name": "Best Actress"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Quinton Aaron"
+                },
+                {
+                    "Name": "Sandra Bullock"
+                },
+                {
+                    "Name": "Tim McGraw"
+                }
+            ] 
+},
+
+{
+"Title": "Black Swan",
+            "Plot": "A ballet dancer wins the lead in 'Swan Lake' and is perfect for the role of the delicate White Swan - Princess Odette - but slowly loses her mind as she becomes more and more like Odile, the Black Swan.",
+            "Image": "http://ia.media-imdb.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_SX214_AL_.jpg",
+            "Trailer": "https://www.youtube.com/embed/5jaI1XOB-bs",
+            "Imdb": "http://www.imdb.com/title/tt0947798/?ref_=nv_sr_1",
+            "Year": "2010",
+            "Director": "Darren Aronofsky",
+            "Genre": "Drama",
+            "Duration": "108 min ",
+            "Awards": [
+                {
+                    "Name": "Best Actress"
+                }
+            ],
+            "Actors": [
+                {
+                    "Name": "Natalie Portman"
+                },
+                {
+                    "Name": "Mila Kunis"
+                },
+                {
+                    "Name": "Vincent Cassel"
+                }
+            ]
+}
+]
