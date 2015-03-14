@@ -1,0 +1,25 @@
+<div > 
+    <h4>Order by:</h4>
+    <div class="btns-wrapper">
+        <div class="btn-group">
+            <label class="btn" ng-click="setOrder('Title')" ng-model="checkModel.left" btn-checkbox>Title</label>
+            <label class="btn" ng-click="setOrder('Year')" ng-model="checkModel.middle" btn-checkbox>Year</label>
+            <label class="btn" ng-click="setOrder('Duration')" ng-model="checkModel.right" btn-checkbox>Duration</label>
+            </div>
+            <div class="btn-group">
+            <label class="btn" ng-click="setOrder('Genre')" ng-model="checkModel.right" btn-checkbox>Genre</label>
+            <label class="btn" ng-click="setOrder('Director')" ng-model="checkModel.right" btn-checkbox>Director</label>
+            </div>
+        <div class="btn-group">
+             <label class="btn" ng-click="setOrder('')" ng-model="checkModel.right" btn-checkbox>Clear</label>
+        </div>
+ </div>
+
+
+    <ul class="imagelist">
+        <li class="MoviesList" ng-repeat="mov in Movies| filter: Search |  orderBy: order ">
+            <span class="text-content"> <span> {{ mov.Title}} / {{ mov.Genre}}</span> </span> <br> <img ng-src="{{mov.Image}}">
+        </li>
+    </ul>
+
+</div>
