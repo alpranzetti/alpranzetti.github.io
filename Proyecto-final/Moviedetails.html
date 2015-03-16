@@ -1,1 +1,28 @@
 
+<div class="centered">
+<div class="box">
+<img class="imagedetail" ng-src="{{movie.Image}}">
+<div class="box2">
+<h2 class="moviedetail"> <u>{{ movie.Title }}</u></h2>
+ <div class="ribbon-wrapper"><div class="ribbon">{{movie.Year}}</div></div>
+<p>{{ movie.Genre}} | {{ movie.Duration}} </p>
+</div>
+<div class="box3">
+ 
+       <p> <br> <strong><u>Plot:</u></strong> {{movie.Plot}} <br><br> <strong><u>Director:</u></strong> {{movie.Director}} <br><br> </p>
+        <div ng-show="myVar2">
+        <p><strong><u>Actors:</u></strong> {{movie.Actors[0].Name}}, {{movie.Actors[1].Name}} ,{{movie.Actors[2].Name}}</p>
+       </div>
+  
+</div>   
+</div>  
+
+<div class="buttonsdiv">
+      <button type="button" class="btn" ng-click="toggle2()">Show Actors</button>
+      <button type="button" class="btn" ng-click="openimdb()">IMDb</button>
+      <button type="button" class="btn" ng-click="toggle()">Trailer</button>
+</div> 
+</div>      
+<p ng-show="myVar" class="trailerclass">
+         <iframe width="610" height="326" src="{{movie.Trailer }}" frameborder="0" allowfullscreen></iframe>
+      </p>
