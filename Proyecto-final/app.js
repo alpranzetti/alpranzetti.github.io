@@ -8,10 +8,12 @@ myApp.config (function($routeProvider){
                 templateUrl: 'home.html',
                 controller: 'Controller1'
             })
-           .when('/MoviesDetails',{
+           .when('/:MovieTitle',{
                 
-                templateUrl: 'Moviedetails.html'
+                templateUrl: 'Moviedetails.html',
+                 controller: 'MovieDetail'
             })
+           
         .otherwise ({
             redirecTo:'/home'
             });
@@ -29,5 +31,44 @@ myApp.config (function($routeProvider){
                     };
             
         });
+        
+
+myApp.controller('MovieDetail', function($scope,$routeParams,$http, $window){
+    
+    $scope.Title = $routeParams.MovieTitle; 
+    
+    $http.get('MoviesJson.json').success(function(data){
+        
+        $scope.movie = data.filter(function(entry){
+            
+            return entry.Title === $scope.Title; 
+         })[0];
+           
+        
+           
+    });
+    
+    
+    $scope.openimdb = function() {
+    $window.open( $scope.movie.Imdb);
+      };   
+       
+   $scope.toggle = function() {
+        $scope.myVar = !$scope.myVar;
+    };
+    
+    $scope.toggle2 = function() {
+        $scope.myVar2 = !$scope.myVar2;
+    };
+});
+
+angular.module('myApp').config(function($sceDelegateProvider) {
+  $sceDelegateProvider.resourceUrlWhitelist(['**']);
+});
+   
+        
+ 
+
+
         
 
