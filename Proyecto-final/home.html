@@ -18,7 +18,7 @@
 
     <ul class="imagelist">
         <li class="MoviesList" ng-repeat="mov in Movies| filter: Search |  orderBy: order ">
-            <span class="text-content"> <span> {{ mov.Title}} / {{ mov.Genre}}</span> </span> <br> <img ng-src="{{mov.Image}}">
+            <span class="text-content"> <span><a class="linkdetail" href="#/{{mov.Title}}">{{ mov.Title}}/ {{ mov.Genre}}</a></span> </span> <br>  <img ng-src="{{mov.Image}}">
         </li>
     </ul>
 
